@@ -1,3 +1,7 @@
 Rails.application.routes.draw do
-  root 'application#hello'
+  scope "(:locale)" do
+    root "static_pages#home"
+    get "static_pages/home"
+    get "static_pages/help"
+  end
 end

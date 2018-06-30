@@ -1,0 +1,20 @@
+vi:
+  hello: "Xin chào thế giới"
+
+  static_pages:
+    home:
+      title: "Trang chủ | Ứng dụng mẫu Ruby on Rails Tutorial"
+      sample: "Ứng dụng mẫu"
+      this: "Đây là trang chủ cho ứng dụng mẫu của"
+      ruby: "Ruby on Rails Tutorial."
+      sample1: ""
+    
+    help:
+      title: "Trợ giúp | Ứng dụng mẫu Ruby on Rails Tutorial"
+      title1: "Trợ giúp"
+      get: "Nhận trợ giúp về Hướng dẫn Ruby on Rails tại"
+      rails: "Rails Tutorial help section."
+      ruby: "Ruby on Rails Tutorial."
+      to: "Để được trợ giúp về ứng dụng mẫu này, hãy xem cuốn sách"
+      book: ""
+      

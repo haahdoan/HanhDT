@@ -17,3 +17,8 @@ en:
       ruby: "Ruby on Rails Tutorial"
       to: "To get help on this sample app, see the"
       book: "book."
+
+  users:
+    new:
+      users: "Users#new"
+      find: "Find me in app/views/users/new.html.erb"

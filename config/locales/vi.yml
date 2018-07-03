@@ -42,3 +42,12 @@ vi:
       about: "Giới thiệu"
       contact: "Liên hệ"
       news: "Tin tức"
+
+  sessions:
+    new:
+      email: "Email"
+      pass: "Mật khẩu"
+      log: "Đăng nhập"
+
+    create:
+      invalid: "Email hoặc mật khẩu không đúng!"

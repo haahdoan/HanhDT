@@ -20,17 +20,41 @@ en:
   users:
     new:
       sign: "Sign up"
+      create: "Create my account"
+
+    form:
       name: "Name"
       email: "Email"
       pass: "Password"
       pass_con: "Confirmation"
-      create: "Create my account"
 
     create:
       welcome: "Welcome to the Sample App!"
 
     show:
       user: "User not found!"
+
+    update:
+      profile: "Profile updated"
+
+    destroy:
+      user: "User deleted"
+
+    logged_in_user:
+      please: "Please log in."
+
+    user:
+      delete: "delete"
+      you: "You sure?"
+
+    index:
+      all: "All users"
+
+    edit:
+      edit: "Edit user"
+      save: "Save changes"
+      update: "Update your profile"
+      change: "Change"
 
   layouts:
     header:
@@ -62,6 +86,7 @@ en:
       log: "Log in"
       sign: "Sign up now!"
       new: "New user?"
+      remember: "Remember me on this computer"
 
     create:
       invalid: "Invalid email/pasword combination"

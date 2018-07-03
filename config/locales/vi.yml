@@ -17,4 +17,8 @@ vi:
       ruby: "Ruby on Rails Tutorial."
       to: "Để được trợ giúp về ứng dụng mẫu này, hãy xem cuốn sách"
       book: ""
-      
+
+  users:
+    new:
+      users: "Người dùng#mới"
+      find: "Tìm tôi trong app/views/users/new.html.erb"

@@ -1,14 +1,13 @@
 vi:
-  hello: "Xin chào thế giới"
-
   static_pages:
     home:
       title: "Trang chủ | Ứng dụng mẫu Ruby on Rails Tutorial"
-      sample: "Ứng dụng mẫu"
+      welcome: "Chào mừng đến với ứng dụng mẫu"
       this: "Đây là trang chủ cho ứng dụng mẫu của"
       ruby: "Ruby on Rails Tutorial."
-      sample1: ""
-    
+      sample: ""
+      sign: "Đăng kí ngay!"
+
     help:
       title: "Trợ giúp | Ứng dụng mẫu Ruby on Rails Tutorial"
       title1: "Trợ giúp"
@@ -20,5 +19,26 @@ vi:
 
   users:
     new:
-      users: "Người dùng#mới"
-      find: "Tìm tôi trong app/views/users/new.html.erb"
+      sign: "Đăng kí"
+      name: "Tên"
+      email: "Email"
+      pass: "Mật Khẩu"
+      pass_con: "Xác nhận"
+      create: "Tạo tài khoản"
+
+    create:
+      welcome: "Welcome to the Sample App!"
+
+  layouts:
+    header:
+      sample: "ứng dụng mẫu"
+      home: "Trang chủ"
+      help: "Trợ giúp"
+      log: "Đăng nhập"
+
+    footer:
+      ruby: "Ruby on Rails Tutorial"
+      michael: "Michael Hartl"
+      about: "Giới thiệu"
+      contact: "Liên hệ"
+      news: "Tin tức"

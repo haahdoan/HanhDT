@@ -2,3 +2,6 @@ user:
   e_max_length: 255
   n_max_length: 50
   p_min_length: 6
+
+users_helper:
+  size: 80

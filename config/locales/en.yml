@@ -1,14 +1,13 @@
 en:
-  hello: "Hello world"
-
   static_pages:
     home:
       title: "Home | Ruby on Rails Tutorial Sample App"
-      sample: "Sample App"
+      welcome: "Welcome to the Sample App"
       this: "This is the home page for the"
       ruby: "Ruby on Rails Tutorial"
-      sample1: "sample application."
-    
+      sample: "sample application."
+      sign: "Sign up now!"
+
     help:
       title: "Help | Ruby on Rails Tutorial Sample App"
       title1: "Help"
@@ -20,5 +19,33 @@ en:
 
   users:
     new:
-      users: "Users#new"
-      find: "Find me in app/views/users/new.html.erb"
+      sign: "Sign up"
+      name: "Name"
+      email: "Email"
+      pass: "Password"
+      pass_con: "Confirmation"
+      create: "Create my account"
+
+    create:
+      welcome: "Welcome to the Sample App!"
+
+    show:
+      user: "User not found!"
+
+  layouts:
+    header:
+      sample: "sample app"
+      home: "Home"
+      help: "Help"
+      log: "Log in"
+
+    footer:
+      ruby: "Ruby on Rails Tutorial"
+      michael: "Michael Hartl"
+      about: "About"
+      contact: "Contact"
+      news: "News"
+
+  shared:
+    error_messages:
+      the: "The form contains"

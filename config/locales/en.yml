@@ -60,6 +60,9 @@ en:
       email: "Email"
       pass: "Password"
       log: "Log in"
+      sign: "Sign up now!"
+      new: "New user?"
+      remember: "Remember me on this computer"
 
     create:
       invalid: "Invalid email/pasword combination"

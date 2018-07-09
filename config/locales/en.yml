@@ -38,6 +38,11 @@ en:
       home: "Home"
       help: "Help"
       log: "Log in"
+      users: "Users"
+      account: "Account"
+      profile: "Profile"
+      settings: "Settings"
+      logout: "Log out"
 
     footer:
       ruby: "Ruby on Rails Tutorial"
@@ -49,3 +54,14 @@ en:
   shared:
     error_messages:
       the: "The form contains"
+
+  sessions:
+    new:
+      email: "Email"
+      pass: "Password"
+      log: "Log in"
+      sign: "Sign up now!"
+      new: "New user?"
+
+    create:
+      invalid: "Invalid email/pasword combination"

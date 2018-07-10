@@ -5,3 +5,10 @@ user:
 
 users_helper:
   size: 80
+
+micropost:
+  content_max_length: 140
+  size: 50
+
+user_info:
+  size: 50

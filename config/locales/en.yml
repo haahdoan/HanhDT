@@ -7,6 +7,7 @@ en:
       ruby: "Ruby on Rails Tutorial"
       sample: "sample application."
       sign: "Sign up now!"
+      rails: "Rails logo"
 
     help:
       title: "Help | Ruby on Rails Tutorial Sample App"
@@ -33,6 +34,7 @@ en:
 
     show:
       user: "User not found!"
+      microposts: "Microposts"
 
     update:
       profile: "Profile updated"
@@ -78,6 +80,14 @@ en:
     error_messages:
       the: "The form contains"
 
+    user_info:
+      view: "view my profile"
+      micropost: "micropost"
+    
+    micropost_form:
+      compose: "Compose new micropost..."
+      post: "Post"
+      
   sessions:
     new:
       email: "Email"
@@ -133,3 +143,20 @@ en:
 
     check_expiration:
       password: "Password reset has expired."
+
+  microposts:
+    micropost:
+      post: "Posted"
+      ago: "ago."
+      delete: "delete"
+      you: "You sure?"
+
+    create:
+      micropost: "Micropost created!"
+
+    destroy:
+      micropost: "Micropost deleted"
+
+  application:
+    logged_in_user:
+      please: "Please log in."
